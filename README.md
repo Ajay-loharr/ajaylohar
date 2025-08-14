@@ -1,4 +1,4 @@
 # ajaylohar
 This is my 1st Git Repo !
 <br>
-Author - Ajay Lohar
+Author - Ajay Sohanlal Lohar
